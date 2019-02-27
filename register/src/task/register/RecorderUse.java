@@ -1,4 +1,4 @@
-package touchsoft.task.register;
+package task.register;
 
 import java.util.Date;
 import java.util.List;

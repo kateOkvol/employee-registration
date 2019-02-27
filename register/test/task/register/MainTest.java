@@ -1,4 +1,4 @@
-package touchsoft.task.register;
+package task.register;
 
 import org.junit.Test;
 
