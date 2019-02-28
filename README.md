@@ -13,11 +13,17 @@ At the exit is expected a number indicating the maximum number of employeesat th
 time in the office.
 
 Example:
+
 08:00 9:07
+
 09:20 10:35
+
 11:00 16:00
+
 10:00 10:30
+
 10:20 11:30
+
 10:30 17:15
 
 Answer: 4
